@@ -1,0 +1,11 @@
+db.php
+index.php
+products.php
+product.php
+cart.php
+checkout.php
+contact.php
+admin.php
+style.css
+images/        # create this folder for your product images
+README.md      # (optional, see below)
